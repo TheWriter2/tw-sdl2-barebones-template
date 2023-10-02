@@ -1,4 +1,4 @@
-# tw-sdl2-barebones-template
+# Barebones SDL2 Template
 My SDL2 basic template to get things going.
 
 To compile it, you need SDL2 somewhere in your computer.
